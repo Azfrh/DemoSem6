@@ -25,3 +25,10 @@
     font-size: 30px;
     color:blueviolet
 }
+
+.container .content h3 span{
+    background: crimson;
+    color:aliceblue;
+    border-radius: 5px;
+    padding:0 10px;
+}
