@@ -20,8 +20,8 @@
         <input type="email" name="email" required placeholder="enter your email">
         <input type="password" name="password" required placeholder="enter your password">
         <input type="cpassword" name="cpassword" required placeholder="confirm your password">
-        <select name"customer_type">
-            <option value="user">user</option>
+        <select name"user_type">
+            <option value="customer">customer</option>
             <option value="manager">manager</option>
     </select>
     </input type="submit" name="submit" value="register now" class="form-btn">
